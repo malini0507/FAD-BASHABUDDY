@@ -1,0 +1,22 @@
+{
+  "name": "bhashabuddy",
+  "version": "1.0.0",
+  "description": "BhashaBuddy: VoiceBridge Jam - A Bilingual Technical English Learning Web Application for Rural & Regional-Medium Students",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "keywords": [
+    "edtech",
+    "bilingual",
+    "telugu",
+    "hindi",
+    "tamil",
+    "speech-recognition",
+    "technical-english",
+    "voicebridge"
+  ],
+  "author": "BhashaBuddy Team",
+  "license": "MIT"
+}
